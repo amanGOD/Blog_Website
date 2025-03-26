@@ -10,7 +10,6 @@ blog-website/
 │-- about.html      # About page of the blog
 │-- article.html    # Blog article page
 │-- style.css       # Stylesheet for the website
-│-- images/         # (Optional) Directory for images
 ```
 
 ## Features
@@ -22,7 +21,7 @@ blog-website/
 ## Installation
 1. Clone this repository or download the ZIP file.
    ```sh
-   git clone https://github.com/yourusername/blog-website.git
+   git clone https://github.com/amanGOD/Blog_Website.git
    ```
 2. Open the project folder.
 3. Open `index.html` in a web browser to view the website.
